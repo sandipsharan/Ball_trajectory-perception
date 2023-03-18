@@ -1,4 +1,4 @@
-# ENPM673 - Pperception for Autonomous Robots
+# ENPM673 - Perception for Autonomous Robots
 
 ## Question 
 * Detect the ball and the plot the pixels of the center of the ball 
