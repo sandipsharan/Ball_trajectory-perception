@@ -50,12 +50,10 @@ pip install numpy
 
 ## To Run the program
 
-Question 1
-<br />
 
-* To run the `script_1.py` file change the python version of the VScode to `3.8.10` 
+* To run the `script.py` file change the python version of the VScode to `3.8.10` 
 <br />
 * Then click the run button (or) press "Ctrl+Alt+N" (or) type the following command in the terminal
 ```
-python - script_1.py
+python - script.py
 ```
